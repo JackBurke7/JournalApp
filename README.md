@@ -45,7 +45,7 @@ Displays the details of a single journal entry, including the title and content.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone [(https://github.com/JackBurke7/JournalApp)]
 
 2. Install dependencies:cd your-repository
 npm install
